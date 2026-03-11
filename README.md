@@ -71,6 +71,7 @@ All output screenshots are included in this repository.
 
 ## 🔗 Links
 - 📓 Google Colab Notebook: https://colab.research.google.com/drive/1Upp4jvt44WqC5nZfLrVXxIzP4gU53v_F#scrollTo=3PVVO3muMxxB
+- 💼 LinkedIn Post:https://www.linkedin.com/posts/pallavi-sowreddi-421313368_machinelearning-datascience-salesforecasting-activity-7437418671213322240-6lnY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFsry5kB2nChrqlIn88PU_V0-AGv5cZCQkQ
 
 ## 👤 Author
 - **Internship:** Future Interns
